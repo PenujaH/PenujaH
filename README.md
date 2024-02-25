@@ -2,4 +2,4 @@
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning python and web frameworks like flask
 - 💞️ I’m looking to collaborate on project related to back-end development especially python
-- ⚡ Fun fact: I enhanced my HTML, CSS skills and understood flask in a single day.
+- ⚡ Fun fact: I enhanced my HTML, CSS skills and learned flask for a medium site in a single day.
