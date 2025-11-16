@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @PenujaH
-- 🌱 I'm a software engineering student @ ICET
+- 🌱 I'm a hobby programmer
